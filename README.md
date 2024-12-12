@@ -51,17 +51,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 ```
 
-2. Run pipeline:
-```python
-# Generate captions
-python main.py
-
-# Generate images
-python generate_images.py
-
-# Generate layout-aware images
-python generate_layout.py
-```
+2. Run cells:
 
 ## Features
 
